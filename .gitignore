@@ -1,9 +1,0 @@
-*
-!.gitignore
-!Fonts/Arapix.tff
-!Graphics/Characters/ar/* 
-!Graphics/Icons/ar/*
-!Graphics/Pictures/ar/*
-!Graphics/Titles/ar/*
-!Languages/*
-!README.md
