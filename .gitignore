@@ -1,7 +1,6 @@
 *
 !.gitignore
-!Fonts
-!Fonts/Arapix
+!Fonts/Arapix.tff
 !Graphics/Characters/ar/* 
 !Graphics/Icons/ar/*
 !Graphics/Pictures/ar/*
