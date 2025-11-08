@@ -1,0 +1,10 @@
+*
+!.gitignore
+!Fonts
+!Fonts/Arapix
+!Graphics/Characters/ar/* 
+!Graphics/Icons/ar/*
+!Graphics/Pictures/ar/*
+!Graphics/Titles/ar/*
+!Languages/*
+!README.md
