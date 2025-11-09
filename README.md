@@ -48,12 +48,12 @@ I'm uploading those files here in hope of someone benfiting from them or compele
 # الخطوط.
 أنا لا اعرف من اين وجدت خط Arapix لكن أضن ان Sylvain Mazas و Anatoletype صنعوه؟ لكن لا اعرف اي شيء غير ذالك.
 
-وأنا لا اتذكر ما هيا خطوط الذي استعملته في صور لكن خط واحد وهو خط [Pixel AE](https://alexclay.itch.io/arabic-pixel-font-b).
+وأنا لا اتذكر ما هيا خطوط الذي استعملته في صور لكن خط واحد وهو خط [Pixel AE](https://essssam.itch.io/pixel-ae).
 
 # The fonts.
 I don't know from where I got Arapix font but I think Sylvain Mazas and Anatoletype created it? But I don't know anything other than that.
 
-And I don't know what were the fonts that I used in the pictures but one font which is [Pixel AE](https://alexclay.itch.io/arabic-pixel-font-b).
+And I don't know what were the fonts that I used in the pictures but one font which is [Pixel AE](https://essssam.itch.io/pixel-ae).
 
 
 # تحميل ترجمة.
