@@ -13,7 +13,7 @@
 
 ألان اسهم المربعة في أمكنهن الصحيحة.
 
-# Update 2025/9/11 (or 2025/11/9 in the yyyy/mm/dd format.)
+# 2025/9/11 Update (or 2025/11/9 in the yyyy/mm/dd format.)
 This updates focuses on fixing the translation errors in the house.
 
 Instruction images font has been changed (excuse the bad font, not many good pixel arabic fonts exists.) And the text should no longer look pixely anymore.
