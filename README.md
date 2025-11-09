@@ -58,7 +58,7 @@ And I don't know what were the fonts that I used in the pictures but one font wh
 
 # تحميل ترجمة.
 
-تستطيع ان تحمل ترجمة بان تحمل ملفات [هنا](https://github.com/ThefakeJeremy/Oneshot-arabic-translation-wip/releases/tag/FirstNonFinshed_version) او للاحدث نسخة `Download ZIP < Code` وثما تفك ضغط ملف وتضع ملفات داخل ملف `Oneshot-arabic-translation-wip-main` في ملفات OneShot.
+تستطيع ان تحمل ترجمة بان تحمل ملفات [هنا](https://github.com/ThefakeJeremy/The-arabic-OneShot-translation/releases/tag/2025%2F9%2F11_update) او للاحدث نسخة `Download ZIP < Code` وثما تفك ضغط ملف وتضع ملفات داخل ملف `Oneshot-arabic-translation-wip-main` في ملفات OneShot.
 
 اذا حملت ملفات من صفحة قت هب, تستطيع أن تتجاهل ملفات `README_images, Krita و README.md`.
 
@@ -67,7 +67,7 @@ And I don't know what were the fonts that I used in the pictures but one font wh
 الان افتح لعية, اذهب الى أعدادات(الخيار اخير) واذهب الى خيار اللغة(خيار ما قبل اخير) و اضغط سهم يمين, وهذه يجب أن يجعل لعبة بللغة العربية, او تستطيع أن تخرج وتدخل لعبة مرا أخري لترء خلفية قأمة رئيسية تتغير.
 
 # Installing the translation.
-You can download the translation [here](https://github.com/ThefakeJeremy/Oneshot-arabic-translation-wip/releases/tag/FirstNonFinshed_version) or for the lastest version `Code > Download ZIP` and then unzip the file and put the contents of `Oneshot-arabic-translation-wip-main` inside OneShot files.
+You can download the translation [here](https://github.com/ThefakeJeremy/The-arabic-OneShot-translation/releases/tag/2025%2F9%2F11_update) or for the lastest version `Code > Download ZIP` and then unzip the file and put the contents of `Oneshot-arabic-translation-wip-main` inside OneShot files.
 
 If you downloaded the files off of Github, you can ignore `Krita, README_images and README.md` files.
 
